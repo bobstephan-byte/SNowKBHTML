@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mobile Phone Services - IT Knowledge Base</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    details { border: 1px solid #ccc; border-radius: 4px; margin-bottom: 6px; padding: 6px 10px; }
+    summary { font-weight: bold; cursor: pointer; }
+    ul { margin: 6px 0 4px 0; padding-left: 20px; }
+    li { margin-bottom: 4px; }
+  </style>
+</head>
+<body>
+
+<details open="open">
+  <summary>Mobile Phone Service Requests are available on the SMC IT Service Portal</summary>
+  <ul>
+    <li>Log in to Okta and select the ServiceNow tile.</li>
+    <li>At the IT Service Portal, select Request Something.</li>
+    <li>Select the Mobile Device link on the left-hand navigator.</li>
+  </ul>
+</details>
+
+<details open="open">
+  <summary>Mobile Phone Service Requests</summary>
+  <ul>
+    <li>SMC provides mobile phones for certain roles in the organization; you can read about eligibility here. <a href="#">[link to mobile phone policy]</a></li>
+  </ul>
+</details>
+
+<details open="open">
+  <summary>Order a New Mobile Phone</summary>
+  <ul>
+    <li>This service is used to order a new mobile phone.</li>
+    <li>Fill out all fields on the form, submit for approval and fulfillment.</li>
+    <li>We maintain a small inventory of phones and redeploy those within the 3-year life cycle window.</li>
+  </ul>
+</details>
+
+<details open="open">
+  <summary>Upgrade a Mobile Phone</summary>
+  <ul>
+    <li>This service is used to upgrade an existing SMC-owned mobile phone.</li>
+    <li>Fill out all fields on the form, submit for approval and fulfillment.</li>
+    <li>Mobile phones have a 3-year lifecycle. This time threshold is specific to the hardware, not when you received the phone.</li>
+  </ul>
+</details>
+
+<details open="open">
+  <summary>Order Mobile Phone Accessories</summary>
+  <ul>
+    <li>This service is used to order accessories (cases, power cords, etc.) for supported SMC-owned mobile phones.</li>
+    <li>Fill out all fields on the form, submit for approval and fulfillment.</li>
+  </ul>
+</details>
+
+<details open="open">
+  <summary>Activate International Roaming</summary>
+  <ul>
+    <li>This service is to request roaming during international travel for SMC-owned mobile phones. Business justification is required.</li>
+    <li>Fill out all fields on the form, submit for approval and fulfillment.</li>
+  </ul>
+</details>
+
+<details open="open">
+  <summary>What is the mobile phone approval process?</summary>
+  <ul>
+    <li>All requests are approved by your cost center manager (may not be your immediate supervisor).</li>
+    <li>Once the request receives management approval, the IT department will review it and begin fulfillment.</li>
+  </ul>
+</details>
+
+<details open="open">
+  <summary>How long does it take to process a request?</summary>
+  <ul>
+    <li>Processing times may vary depending on the type of request.</li>
+    <li>Completing the request form accurately, including all requested data, will streamline processing.</li>
+  </ul>
+</details>
+
+<details open="open">
+  <summary>What if I can't access the Okta Portal or ServiceNow?</summary>
+  <ul>
+    <li>Contact the IT Service Desk for assistance via phone or email.</li>
+    <li>Email: <a href="mailto:support.us@smc.com">support.us@smc.com</a></li>
+    <li>Phone: 123-456-7890</li>
+  </ul>
+</details>
+
+</body>
+</html>
